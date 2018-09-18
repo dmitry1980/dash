@@ -28,7 +28,7 @@ packages:
 - "ca-certificates"
 - "python"
 remotes:
-- "url": "https://github.com/dashpay/dash.git"
+- "url": "https://github.com/dmitry1980/dash.git"
   "dir": "dash"
 files: []
 script: |
